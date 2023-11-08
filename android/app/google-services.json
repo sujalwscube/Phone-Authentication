@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451418461297",
+    "project_id": "wslc-147",
+    "storage_bucket": "wslc-147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451418461297:android:5309c8b29d884d6c4837d0",
+        "android_client_info": {
+          "package_name": "com.example.wslc_147_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmyZJplZu8KbfJyWKwrSd8bIZmaI2Bzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
